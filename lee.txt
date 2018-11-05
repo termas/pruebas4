@@ -1,2 +1,4 @@
 "Carga inicial..." 
-Cambio 5
+Cambio 9
+Cambio 10
+Cambio 11
